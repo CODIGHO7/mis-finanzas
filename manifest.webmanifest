@@ -1,0 +1,17 @@
+{
+  "name": "Mis Finanzas",
+  "short_name": "Mis Finanzas",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#263b61",
+  "icons": [
+    {
+      "src": "icon.png",
+      "purpose": "any",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "scope": "./"
+}
